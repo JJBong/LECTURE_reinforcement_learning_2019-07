@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using MLAgents;
 
-public class BallAcademy : Academy
+public class GuideAcademy : Academy
 {
     // Start is called before the first frame update
     public override void AcademyReset()
